@@ -1,0 +1,131 @@
+#+OPTIONS: ^:nil
+#+TITLE: Vlad Dyshko
+#+DATE: <2020-07-04 Wed>
+#+AUTHOR: Vlad Dyshko
+#+EMAIL: dyshkovlad@yandex.ru
+
+
+* Getting started
+
+
+
+In a nutshell, if you find him awesome, you're probably right.
+
+If you don't, well you will eventually.
+
+** Contact
+
+- Basic stuffs
+
+| *NAME*        | *DOB*        | *NATIONALITY* | *ADDRESS*                                 | *EMAIL*      | *EDITOR*   |
+|-------------+------------+-------------+-----------------------------------------+------------+----------|
+| Tran Anh Vu | 10/17/1987 | Vietnamese  | #53 Chua Lien Phai, Bach Mai St., Hanoi | me@vutr.io | /emacs(1)/ |
+
+/(1) It's very very very important./
+
+- Slightly-more-than-basic stuffs
+
+| Skype   | Telegram | Whatsapp         | Tinder      |
+|---------+----------+------------------+-------------|
+| live:.cid.e084bf44001ff43 | @vutr47  | +84 94 710 19 87 | /Seriously/?? |
+
+** 10-second Bio
+- *Civil Engineering*, graduated in 2010.
+- Working as Civil Engineer for 5 years.
+- Tried few other different jobs.
+- Decided to become a software developer in 2015.
+
+* Work Logs
+... Well let's fast-foward to the time he got offered the very first software-developing job, at the age of ~30~
+
+** FactoryFinder (11/2016 – 11/2017)
+/the company has been closed, the platform and websites are no more/.
+#+begin_src code
+Finnis technology startup with HQ in Helsinki Area, Finland
+Web Developer Intern (Working with local engineering team in Hanoi, Vietnam)
+#+end_src
+
++ Developed frontend applications using React and its ecosystem
++ Tried different frontend tech stacks, both for the job and for hobby projects
++ In 4 months, built his own very first [[http://e47shop.firebaseapp.com][SPA Website]] from scratch and made a [[https://www.npmjs.com/package/react-statesman][Redux-like library]] in the spare time (got
+  approved as production-grade tool for company apps)
++ Got introduced to Emacs.
++ Comfortable with anything written in JS/TS: /React, Angular, Vue, Riot, Webpack,
+  Brunch, Gulp, Rollup, Parcel, Yeoman, Bootstrap, Foundation, Sass, Less.../ you name it.
++ Started to learn Python, Django and backend development few months before quitting.
+
+** Anymind Group (01/2018 - 10/2018)
+[[https://anymindgroup.com]]
+#+begin_src  code
+Singapore-based Marketing Technology Startup
+Fullstack Developer (Saigon, Vietnam)
+#+end_src
+
++ Working on a HR/Recruitment Platform called [[https://talentmind.ai/][TalentMind.AI]]
++ Developed CRUD backend with AWS Lambda using Python, Postgres
++ Developed frontend with Angular & InfernoJs
++ Working on some weekend projects, included both writing and coding ([[https://github.com/vutran1710/blockchain-clojure][Blockchain with Clojure]], [[https://github.com/vutran1710/bitstring][Attendance-Check-Problem]])
++ Enjoyed solving algorithm problems on [[https://www.hackerrank.com/vutr1?hr_r=1][Hackerrank]] in the spare time
++ Developed a Sport-Booking Platform with Ethereum (yeah it never came to life).
+
+** TomoChain (11/2018 - 10/2019)
+https://tomochain.com/
+#+begin_src  code
+Leading Blockchain Company in Vietnam
+Software Engineer (Hanoi, Vietnam)
+#+end_src
+
++ Developed a complete Administration Platform that enabled Decentralized Finance (Blockchain-based Trading Platform)
+  using Python Tornado, React, Postgres, PouchDB for searching and Solidity for developing smart-contracts
+  - code :: https://github.com/tomochain/tomorelayer
+  - website :: https://www.tomorelayer.com/
+  - blogs :: https://medium.com/tomochain/launch-your-own-dex-with-tomorelayer-eb440a2d6a3d
+  - videos :: https://www.youtube.com/watch?v=-rV2Hi165fg
+
++ Had fun through learning and developing some weekend projects
+  - Making a [[https://github.com/vutran1710/PortfolioWagtailApp][Portfolio Website]] with Wagtail
+  - Making a template for [[https://github.com/vutran1710/SweetDeals][Nodejs full-stack application]]
+  - Trying out a stream-processing application with [[https://github.com/vutran1710/KafkaOffShore][python & kafka]]
+  - Researched and develop a [[https://github.com/vutran1710/tournamentor][Tournament Scheduler]] for video-game football matches between collegues in the company
+
++ Setup and teaching an admission-free [[https://github.com/vutran1710/FlaskFun][Web-Development with Python Crash-course]] for some young, potential students from
+  *Hanoi University of Technology*
+
+** Gapo Technology (10/2019 - Present)
+https://www.gapo.vn/
+https://stackshare.io/cong-ty-co-phan-cong-nghe-gapo/gapo
+#+begin_src  code
+Leading Social Network in Vietnam
+Senior Software Engineer(Hanoi, Vietnam)
+#+end_src
+
++ Developed Feed Engine, with Sorting/Ranking Algorithms that provides appropriate content distribution.
++ Architechture design involved restful backend, job-workers, distributed task queues etc
++ Research mathematical models that can be applied for suggestion/recommendation/ranking systems (eg:
+  https://github.com/vutran1710/DecayPlotter)
+
++ Making some OSS for both team and personal use:
+  - API [[https://github.com/vutran1710/PyrateLimiter][Rate-limiting library]] with Python
+  - [[https://github.com/vutran1710/YeomanPywork][Python application template with Yeoman]] for fast scaffolding
+
++ Learning Rust for future use
+
+* Philosophies
+In order to stand the test of time, there are philosophies and codes of conduct a man must adhere to. Vu is no
+exception. When it comes to softwares, these are the things that has been driving
+him towards greatness (or at least that's what he thinks):
+
+- Aestheticism matters
+- Conciseness is good
+- Explicitness is great
+- More codes = more bugs
+- Mathematical proof trumps everything
+- Engineering principles are far more important than stacks and tools
+- Have some Taste!
+
+* Referrences
+[[https://www.linkedin.com/in/v%C5%A9-tr%E1%BA%A7n-ab442112b/][LinkedIn]]
+
+[[https://medium.com/@vutr][Medium]]
+
+[[https://www.hackerrank.com/vutr1][Hackerrank]]
