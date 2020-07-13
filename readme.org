@@ -5,74 +5,74 @@
 #+EMAIL: dyshkovlad@yandex.ru
 
 
-* Getting started
-
-
-
-In a nutshell, if you find him awesome, you're probably right.
-
-If you don't, well you will eventually.
+* PROFESSIONAL SUMMARY
+7 years of experience in Software development and reliability management operations and on-call incident response.
++ Accommplished and results-oriented technologies leader with progressive experience and success in software design, solutions Architechture, application development, hardware development & hardware patent process, and the creation of bespke hardware & software solutions, products, services, and the occassional tidbitf mechanical engineering.
++ Skilled in identifying and prioritizing development initiatives and delivering capabilities to the product teams to help ensure availability, scalability, performance, and security. Very skilled in creating a cohesive team dynamic, and managing large teams, remote teams, or dispersed multinational teams.
++ Diverse in-depth hands-on experience working with, and designing products, solutions, and applications for a wide array of market verticals. From holographic fashion shows for brands like Dior, to economizing the distribution of concrete from plant to site, I've successfully delivered unique and effective solutions across a diverse array of market disciplines and verticals.
++ Recognized for my expertise in overseeing technology improvement initiatives and aligning information services with business goals.
 
 ** Contact
 
-- Basic stuffs
-
-| *NAME*        | *DOB*        | *NATIONALITY* | *ADDRESS*                                 | *EMAIL*      | *EDITOR*   |
-|-------------+------------+-------------+-----------------------------------------+------------+----------|
-| Tran Anh Vu | 10/17/1987 | Vietnamese  | #53 Chua Lien Phai, Bach Mai St., Hanoi | me@vutr.io | /emacs(1)/ |
-
-/(1) It's very very very important./
-
-- Slightly-more-than-basic stuffs
-
-| Skype   | Telegram | Whatsapp         | Tinder      |
-|---------+----------+------------------+-------------|
-| live:.cid.e084bf44001ff43 | @vutr47  | +84 94 710 19 87 | /Seriously/?? |
+| *NAME*      | *NATIONALITY* | *ADDRESS*                                 | *EMAIL*               |
+|-------------+---------------+-------------------------------------------------------------------|
+| Vlad Dyshko | Ukraine       |                                           | dyshkovlad@yandex.ru  |
 
 ** 10-second Bio
-- *Civil Engineering*, graduated in 2010.
-- Working as Civil Engineer for 5 years.
+- *Civil Engineering*, graduated in 2012.
+- Working as Civil Engineer over the last 7 years.
 - Tried few other different jobs.
 - Decided to become a software developer in 2015.
 
 * Work Logs
-... Well let's fast-foward to the time he got offered the very first software-developing job, at the age of ~30~
+... Well let's fast-foward to the time he got offered the very first software-developing job, at the age of ~25~
 
-** FactoryFinder (11/2016 – 11/2017)
+** FactoryFinder (2012 – 2014)
 /the company has been closed, the platform and websites are no more/.
 #+begin_src code
 Finnis technology startup with HQ in Helsinki Area, Finland
-Web Developer Intern (Working with local engineering team in Hanoi, Vietnam)
+Web Developer (Intern)
 #+end_src
 
 + Developed frontend applications using React and its ecosystem
 + Tried different frontend tech stacks, both for the job and for hobby projects
-+ In 4 months, built his own very first [[http://e47shop.firebaseapp.com][SPA Website]] from scratch and made a [[https://www.npmjs.com/package/react-statesman][Redux-like library]] in the spare time (got
-  approved as production-grade tool for company apps)
 + Got introduced to Emacs.
 + Comfortable with anything written in JS/TS: /React, Angular, Vue, Riot, Webpack,
   Brunch, Gulp, Rollup, Parcel, Yeoman, Bootstrap, Foundation, Sass, Less.../ you name it.
 + Started to learn Python, Django and backend development few months before quitting.
 
-** Anymind Group (01/2018 - 10/2018)
+** Anymind Group (2014 - 2014)
 [[https://anymindgroup.com]]
 #+begin_src  code
 Singapore-based Marketing Technology Startup
-Fullstack Developer (Saigon, Vietnam)
+Fullstack Developer (Ukraine)
 #+end_src
 
 + Working on a HR/Recruitment Platform called [[https://talentmind.ai/][TalentMind.AI]]
 + Developed CRUD backend with AWS Lambda using Python, Postgres
 + Developed frontend with Angular & InfernoJs
-+ Working on some weekend projects, included both writing and coding ([[https://github.com/vutran1710/blockchain-clojure][Blockchain with Clojure]], [[https://github.com/vutran1710/bitstring][Attendance-Check-Problem]])
-+ Enjoyed solving algorithm problems on [[https://www.hackerrank.com/vutr1?hr_r=1][Hackerrank]] in the spare time
++ Working on some weekend projects, included both writing and coding ([Blockchain with Clojure], [Attendance-Check-Problem])
++ Enjoyed solving algorithm problems on [Hackerrank] in the spare time
 + Developed a Sport-Booking Platform with Ethereum (yeah it never came to life).
 
-** TomoChain (11/2018 - 10/2019)
+** Centro, lnc (2015 – 2015)
+
+#+begin_src code
+Software Egineer
+#+end_src
+
++ Constructed a Chrome developer tool to help developers debug and analyze a proprietary state-management framework.
++ Used jscodeshift (a JavaScript codemod toolkit) to make application-wide code changes to replace deprecated APIs and code syntax.
++ Constructed middleware that allowed React work with our proprietary model framework.
++ Built and analyzed an ad exchange platform with React/Angular 1 frameworks.
++ Got introduced to Emacs.
++ Developed friendly Django APIs for our front-end application.
+
+** TomoChain (2018 - 2019)
 https://tomochain.com/
 #+begin_src  code
 Leading Blockchain Company in Vietnam
-Software Engineer (Hanoi, Vietnam)
+Software Engineer (Remote, Ukraine)
 #+end_src
 
 + Developed a complete Administration Platform that enabled Decentralized Finance (Blockchain-based Trading Platform)
@@ -83,49 +83,29 @@ Software Engineer (Hanoi, Vietnam)
   - videos :: https://www.youtube.com/watch?v=-rV2Hi165fg
 
 + Had fun through learning and developing some weekend projects
-  - Making a [[https://github.com/vutran1710/PortfolioWagtailApp][Portfolio Website]] with Wagtail
-  - Making a template for [[https://github.com/vutran1710/SweetDeals][Nodejs full-stack application]]
-  - Trying out a stream-processing application with [[https://github.com/vutran1710/KafkaOffShore][python & kafka]]
-  - Researched and develop a [[https://github.com/vutran1710/tournamentor][Tournament Scheduler]] for video-game football matches between collegues in the company
+  - Making a with Wagtail
+  - Making a template for [Nodejs full-stack application]
+  - Trying out a stream-processing application with [python & kafka]
+  - Researched and develop a [Tournament Scheduler] for video-game football matches between collegues in the company
 
-+ Setup and teaching an admission-free [[https://github.com/vutran1710/FlaskFun][Web-Development with Python Crash-course]] for some young, potential students from
-  *Hanoi University of Technology*
+** AL AHLI HOLDING GROUPS (2018 - 2019) 
 
-** Gapo Technology (10/2019 - Present)
-https://www.gapo.vn/
-https://stackshare.io/cong-ty-co-phan-cong-nghe-gapo/gapo
-#+begin_src  code
-Leading Social Network in Vietnam
-Senior Software Engineer(Hanoi, Vietnam)
+#+begin_src code
+Head of Technology
 #+end_src
 
-+ Developed Feed Engine, with Sorting/Ranking Algorithms that provides appropriate content distribution.
-+ Architechture design involved restful backend, job-workers, distributed task queues etc
-+ Research mathematical models that can be applied for suggestion/recommendation/ranking systems (eg:
-  https://github.com/vutran1710/DecayPlotter)
-
-+ Making some OSS for both team and personal use:
-  - API [[https://github.com/vutran1710/PyrateLimiter][Rate-limiting library]] with Python
-  - [[https://github.com/vutran1710/YeomanPywork][Python application template with Yeoman]] for fast scaffolding
-
-+ Learning Rust for future use
-
-* Philosophies
-In order to stand the test of time, there are philosophies and codes of conduct a man must adhere to. Vu is no
-exception. When it comes to softwares, these are the things that has been driving
-him towards greatness (or at least that's what he thinks):
-
-- Aestheticism matters
-- Conciseness is good
-- Explicitness is great
-- More codes = more bugs
-- Mathematical proof trumps everything
-- Engineering principles are far more important than stacks and tools
-- Have some Taste!
++ Guiding buiness and technology strategy across 78 discrete subsidaries
++ Managing, planning and developing all IT infrastructure conglomerate wide.
++ Creating, developing and improving the massive business intelligence and data science operations in conjunction w/ partners.
++ Acquisition due diligence, strategic planning, new and existing vertical integration planning,due diligence and implementation.
++ Strategic partner management and relationship development.
++ Mentoring and oversight of new C-Level employees and startup/new acquisition executive personnel and business development.
++ Patent strategy and patent acquisition. New patents and conceptual research related to future patents.
++ Board member of subsidiaries and related advisory and voting duties.
++ Worked closely with legal staff to develop strategic business development to maximize profitability and mitigate risk.
++ Deployed and Implemented unified CRM across 65 subsidiaries (salesforce).
++ Sample of Tech used: {Python, Java, C#, C++, ASP/.NET, Node, Agile, PHP, Ruby/ROR, unicorn/gunicorn, Docker, Flask, and many more }
 
 * Referrences
-[[https://www.linkedin.com/in/v%C5%A9-tr%E1%BA%A7n-ab442112b/][LinkedIn]]
+[[https://www.linkedin.com/in/vlad-dyshko-a492a61a9/][LinkedIn]]
 
-[[https://medium.com/@vutr][Medium]]
-
-[[https://www.hackerrank.com/vutr1][Hackerrank]]
