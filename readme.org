@@ -14,9 +14,9 @@
 
 ** Contact
 
-| *NAME*      | *NATIONALITY* | *ADDRESS*                                 | *EMAIL*               |
-|-------------+---------------+-------------------------------------------------------------------|
-| Vlad Dyshko | Ukraine       |                                           | dyshkovlad@yandex.ru  |
+| *NAME*      | *NATIONALITY* | *EMAIL*               |
+|-------------+---------------+-----------------------|
+| Vlad Dyshko | Ukraine       | dyshkovlad@yandex.ru  |
 
 ** 10-second Bio
 - *Civil Engineering*, graduated in 2012.
@@ -77,10 +77,6 @@ Software Engineer (Remote, Ukraine)
 
 + Developed a complete Administration Platform that enabled Decentralized Finance (Blockchain-based Trading Platform)
   using Python Tornado, React, Postgres, PouchDB for searching and Solidity for developing smart-contracts
-  - code :: https://github.com/tomochain/tomorelayer
-  - website :: https://www.tomorelayer.com/
-  - blogs :: https://medium.com/tomochain/launch-your-own-dex-with-tomorelayer-eb440a2d6a3d
-  - videos :: https://www.youtube.com/watch?v=-rV2Hi165fg
 
 + Had fun through learning and developing some weekend projects
   - Making a with Wagtail
